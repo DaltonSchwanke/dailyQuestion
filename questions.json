@@ -1,0 +1,461 @@
+[
+  {
+    "question": "What\u2019s a memory that always makes you smile?",
+    "tags": [
+      "monday",
+      "reflective",
+      "joy"
+    ],
+    "used": false
+  },
+  {
+    "question": "If you could relive one day from your past, which would it be and why?",
+    "tags": [
+      "monday",
+      "nostalgia",
+      "deep"
+    ],
+    "used": false
+  },
+  {
+    "question": "What does a perfect morning look like to you?",
+    "tags": [
+      "monday",
+      "routine",
+      "vision"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something small that made a big difference in your life?",
+    "tags": [
+      "monday",
+      "gratitude",
+      "perspective"
+    ],
+    "used": false
+  },
+  {
+    "question": "What do you usually think about on your way to sleep?",
+    "tags": [
+      "monday",
+      "reflective",
+      "mindset"
+    ],
+    "used": false
+  },
+  {
+    "question": "What skill do you wish you had learned as a child?",
+    "tags": [
+      "tuesday",
+      "skills",
+      "regret"
+    ],
+    "used": true
+  },
+  {
+    "question": "Who is someone you admire and why?",
+    "tags": [
+      "tuesday",
+      "inspiration",
+      "people"
+    ],
+    "used": false
+  },
+  {
+    "question": "What does success look like to you today?",
+    "tags": [
+      "tuesday",
+      "goals",
+      "career"
+    ],
+    "used": false
+  },
+  {
+    "question": "When do you feel the most confident?",
+    "tags": [
+      "tuesday",
+      "self",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s one fear you\u2019ve overcome?",
+    "tags": [
+      "tuesday",
+      "courage",
+      "reflection"
+    ],
+    "used": false
+  },
+  {
+    "question": "If you could instantly learn any language, which would it be and why?",
+    "tags": [
+      "wednesday",
+      "dream",
+      "skills"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s the most creative thing you\u2019ve ever done?",
+    "tags": [
+      "wednesday",
+      "creativity",
+      "fun"
+    ],
+    "used": false
+  },
+  {
+    "question": "If your life were a book, what would today\u2019s chapter be called?",
+    "tags": [
+      "wednesday",
+      "fun",
+      "reflective"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something new you\u2019ve tried recently?",
+    "tags": [
+      "wednesday",
+      "exploration",
+      "habit"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a problem you solved that you\u2019re proud of?",
+    "tags": [
+      "wednesday",
+      "problem-solving",
+      "confidence"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a conversation you\u2019ll never forget?",
+    "tags": [
+      "thursday",
+      "connection",
+      "deep"
+    ],
+    "used": false
+  },
+  {
+    "question": "What habit has had the most positive impact on your life?",
+    "tags": [
+      "thursday",
+      "habits",
+      "growth"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something you\u2019ve unlearned recently?",
+    "tags": [
+      "thursday",
+      "growth",
+      "perspective"
+    ],
+    "used": false
+  },
+  {
+    "question": "When do you feel most present?",
+    "tags": [
+      "thursday",
+      "mindfulness",
+      "balance"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a belief you hold that most people around you don\u2019t?",
+    "tags": [
+      "thursday",
+      "opinion",
+      "thought-provoking"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something random that always makes you laugh?",
+    "tags": [
+      "friday",
+      "funny",
+      "joy"
+    ],
+    "used": false
+  },
+  {
+    "question": "If you had to give a TED Talk with no prep, what topic would you choose?",
+    "tags": [
+      "friday",
+      "improv",
+      "fun"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s your go-to comfort food and why?",
+    "tags": [
+      "friday",
+      "fun",
+      "nostalgia"
+    ],
+    "used": false
+  },
+  {
+    "question": "What song always gets you in a good mood?",
+    "tags": [
+      "friday",
+      "music",
+      "vibes"
+    ],
+    "used": false
+  },
+  {
+    "question": "If you had one extra hour today, how would you spend it?",
+    "tags": [
+      "friday",
+      "time",
+      "priorities"
+    ],
+    "used": false
+  },
+  {
+    "question": "If you could live anywhere for a year, where would it be?",
+    "tags": [
+      "saturday",
+      "travel",
+      "dream"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something you\u2019ve always wanted to learn but haven\u2019t yet?",
+    "tags": [
+      "saturday",
+      "learning",
+      "skills"
+    ],
+    "used": false
+  },
+  {
+    "question": "If you had to build something with your hands today, what would it be?",
+    "tags": [
+      "saturday",
+      "creative",
+      "imagination"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a hobby you admire but never tried?",
+    "tags": [
+      "saturday",
+      "curiosity",
+      "fun"
+    ],
+    "used": false
+  },
+  {
+    "question": "What would your dream weekend look like?",
+    "tags": [
+      "saturday",
+      "dream",
+      "joy"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a book or movie that really changed your perspective?",
+    "tags": [
+      "sunday",
+      "media",
+      "reflection"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something you want to be remembered for?",
+    "tags": [
+      "sunday",
+      "legacy",
+      "deep"
+    ],
+    "used": false
+  },
+  {
+    "question": "How do you define a meaningful life?",
+    "tags": [
+      "sunday",
+      "purpose",
+      "philosophy"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s one thing you want to let go of this week?",
+    "tags": [
+      "sunday",
+      "mindset",
+      "renewal"
+    ],
+    "used": false
+  },
+  {
+    "question": "What are you most grateful for right now?",
+    "tags": [
+      "sunday",
+      "gratitude",
+      "reflection"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a goal you\u2019ve achieved that still makes you proud?",
+    "tags": [
+      "growth",
+      "milestone",
+      "reflection"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s one thing you\u2019ve changed your mind about recently?",
+    "tags": [
+      "perspective",
+      "mindset",
+      "adaptation"
+    ],
+    "used": false
+  },
+  {
+    "question": "What would you tell your 12-year-old self?",
+    "tags": [
+      "advice",
+      "childhood",
+      "reflective"
+    ],
+    "used": false
+  },
+  {
+    "question": "What do you most value in a friendship?",
+    "tags": [
+      "relationships",
+      "values",
+      "connection"
+    ],
+    "used": false
+  },
+  {
+    "question": "What does your ideal future look like?",
+    "tags": [
+      "vision",
+      "hope",
+      "goals"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something you\u2019ve created that you\u2019re proud of?",
+    "tags": [
+      "creative",
+      "accomplishment",
+      "self"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a risk you\u2019re glad you took?",
+    "tags": [
+      "risk",
+      "growth",
+      "bold"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s one thing you hope people say about you when you\u2019re not around?",
+    "tags": [
+      "character",
+      "legacy",
+      "deep"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something that always makes you feel grounded?",
+    "tags": [
+      "mindfulness",
+      "self-care",
+      "balance"
+    ],
+    "used": false
+  },
+  {
+    "question": "What would you spend $10,000 on if you had to use it today?",
+    "tags": [
+      "fun",
+      "money",
+      "imagination"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s one way you\u2019ve changed in the past year?",
+    "tags": [
+      "growth",
+      "reflection",
+      "self-awareness"
+    ],
+    "used": false
+  },
+  {
+    "question": "If you could have dinner with any historical figure, who would it be?",
+    "tags": [
+      "history",
+      "curiosity",
+      "inspiration"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s your definition of happiness?",
+    "tags": [
+      "philosophy",
+      "joy",
+      "self-awareness"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s a lesson you\u2019ve had to learn the hard way?",
+    "tags": [
+      "lessons",
+      "growth",
+      "pain"
+    ],
+    "used": false
+  },
+  {
+    "question": "If today was your last day off, how would you spend it?",
+    "tags": [
+      "perspective",
+      "priorities",
+      "gratitude"
+    ],
+    "used": false
+  },
+  {
+    "question": "What\u2019s something you wish more people understood about you?",
+    "tags": [
+      "self",
+      "communication",
+      "deep"
+    ],
+    "used": false
+  }
+]
